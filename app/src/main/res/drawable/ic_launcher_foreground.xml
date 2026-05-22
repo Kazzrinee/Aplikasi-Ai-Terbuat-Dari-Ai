@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Glow layer -->
+    <path
+        android:fillColor="#33D0BCFF"
+        android:pathData="M54,22 C36.33,22 22,33.19 22,47 C22,54.75 27.81,61.42 36.69,65.44 C35.48,70.28 32.22,76.47 29.5,80 C35.42,79.56 44.59,75.33 49.33,71.55 C50.85,71.85 52.41,72 54,72 C71.67,72 86,60.81 86,47 C86,33.19 71.67,22 54,22 Z" />
+
+    <!-- White Chat Bubble Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C38.54,26 26,35.85 26,48 C26,54.84 31.09,60.74 38.87,64.29 L38.3,66 L34.7,76.8 C39.5,76 47.9,72.4 51.7,69.5 C52.46,69.75 53.22,69.85 54,69.85 C69.46,69.85 82,60 82,48 C82,35.85 69.46,26 54,26 Z" />
+
+    <!-- AI Spark Star in Vivid Violet -->
+    <path
+        android:fillColor="#6200EE"
+        android:pathData="M54,34 C54.5,41.5 59.5,45.5 66,46 C59.5,46.5 54.5,50.5 54,58 C53.5,50.5 48.5,46.5 42,46 C48.5,45.5 53.5,41.5 54,34 Z" />
+</vector>

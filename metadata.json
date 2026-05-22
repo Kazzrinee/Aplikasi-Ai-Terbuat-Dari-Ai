@@ -1,0 +1,6 @@
+{
+  "name": "Tanya AI",
+  "description": "Asisten AI Pintar yang ditenagai oleh Gemini API untuk menjawab semua pertanyaan Anda secara instan dan cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
